@@ -1,3 +1,3 @@
 # G-Research Crypto Forecasting (63th place)
 
-My solution for crypto forecasting competition. I used single LightGBM model and quite simple features that showed best results on CV and which showed their importance during feature selection.
+My solution for [crypto forecasting competition](https://www.kaggle.com/competitions/g-research-crypto-forecasting/overview). I used single LightGBM model and quite simple features that demonstrated best results on CV and which showed their importance during feature selection. 
